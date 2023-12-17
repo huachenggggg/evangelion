@@ -1,0 +1,214 @@
+.header{
+background: #425A58;
+padding: 36px 0;
+
+}
+.container{
+		width: 1300px;
+	margin: 0 auto;
+	
+}
+.container_header
+{
+display: flex;	
+align-items: center;
+}
+.nav_list{
+	display: flex;
+	list-style: none;
+}
+.header-title{
+	color: #FFF;
+
+font-family: Nova Script;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-right: auto;
+}
+.nav-link{
+	color: #E4E4E4;
+
+font-family: Oldenburg;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 40px ;
+}
+.nav-link:hover
+{
+	color: royalblue;
+}
+
+.skills_full
+{
+width: 356px;
+height: 10px;
+background: #2A9078;
+}
+.skills_done
+{
+width: 287px;
+height: 10px;
+background: #2C2C2C;
+}
+.about
+{
+	background: #5B7370;
+	padding: 20px 0;
+}
+.hero-block
+{
+	background: #425A58;
+	padding: 20px 0;
+}
+.hero-block_text
+{
+	color: #FFF;
+font-family: 'EB Garamond', serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.about_content
+{
+	display: flex;
+	align-items: center;
+}
+.skills-list
+{
+	list-style: none;
+}
+.skills_name
+{
+	color: #E4E4E4;
+
+font-family: 'EB Garamond', serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.about_title
+{
+	color: #E4E4E4;
+	text-align: center;
+
+font-family: 'EB Garamond', serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.skills_title
+{
+	color: #E4E4E4;
+font-family: 'EB Garamond', serif;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.video
+{
+	background: #617772;
+	padding: 70px 0 134px ;
+	margin-right: auto;
+
+  
+}
+.video_title
+{
+	color: #E4E4E4;
+font-family: Neuton;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+
+}
+.gallery_list
+{
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+}
+.gallery_item
+{
+	width: 33%;
+}
+.gallery_img
+{
+	width: 100%;
+}
+.gallery_title
+{
+	color: #E4E4E4;
+
+font-family: Neuton;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+}
+.gallery
+{
+background: #617772;
+	padding: 70px 0 134px ;
+	margin-right: auto;
+
+}
+.footer_img
+{
+width: 40px;
+height: 40px;
+}
+.footer_list
+{
+	list-style: none;
+	display: flex;
+
+}
+.container_footer
+{
+	display: flex;
+justify-content: space-between;
+}
+.footer
+{
+background: #41695F;
+padding: 50px 201px 52px 201px;
+
+}
+.footer_text
+{
+color: #FFF;
+
+font-family: Nico Moji;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 164.063%; /* 26.25px */
+
+}
+.footer_title
+{
+	color: #E4E4E4;
+
+font-family: Nico Moji;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.footer_item
+{
+	margin-right: 60px ;
+}
